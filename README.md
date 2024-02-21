@@ -1,5 +1,8 @@
 ### Hi there 👋
+![Header](./github-header-image.png)
 
+- 🌱 I’m currently learning Android Studio.
+- 🔭 I’m currently working on a mobile application.
 <!--
 **tksubie/tksubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
