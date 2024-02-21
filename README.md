@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am tksubie! 👋
 ![Header](./github-header-image.png)
 
 - 🌱 I’m currently learning Android Studio.
